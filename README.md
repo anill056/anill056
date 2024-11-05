@@ -1,4 +1,4 @@
-[![MasterHead](https://www.kampustenevar.com/upload/yazilim_48720.png)
+![MasterHead](https://www.kampustenevar.com/upload/yazilim_48720.png)
 <h1 align="center">Hi 👋, I'm Anıl Aksu</h1>
 <h3 align="center">Computer Engineering | Artificial İntelligent & Machine Learning</h3>
 
