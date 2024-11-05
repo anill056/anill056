@@ -1,4 +1,4 @@
-[![MasterHead](https://metinyilmaz.me/wp-content/uploads/2014/12/en-cok-kazandiran-yazilim-dilleri-2.jpg)
+
 <h1 align="center">Hi 👋, I'm Anıl Aksu</h1>
 <h3 align="center">Computer Engineering | Artificial İntelligent & Machine Learning</h3>
 
