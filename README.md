@@ -28,9 +28,9 @@
 ### 🏆 LeetCode & Daily.dev Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/anil1056?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" width="400"/>
+  <img src="https://leetcard.jacoblin.cool/anill056?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats" width="360"/>
   <a href="https://app.daily.dev/anill056">
-    <img src="https://api.daily.dev/devcards/v2/JRs6aYJSsW6C0ZOYxZIXT.png?type=default&r=037" width="356" alt="Anıl Aksu's Dev Card"/>
+    <img src="https://api.daily.dev/devcards/v2/JRs6aYJSsW6C0ZOYxZIXT.png?type=default&r=037" width="320" alt="Anıl Aksu's Dev Card"/>
   </a>
 </p>
 
@@ -40,10 +40,10 @@
 
 <details>
   <summary>Click to expand stats 📈</summary>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=anill056&show_icons=true&theme=dark&border_radius=15" width="360" alt="My Stats" /></p>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anill056&layout=compact&theme=dark&border_radius=15" width="360" alt="Top Languages" /></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anill056&theme=dark&border_radius=15" width="360" alt="Streak Stats" /></p>
-  <p align="center"><img src="https://komarev.com/ghpvc/?username=anill056&label=Profile%20Views&color=0e75b6&style=flat" width="150" alt="Profile Views" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=anill056&show_icons=true&theme=dark&border_radius=15" width="340" alt="My Stats" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anill056&layout=compact&theme=dark&border_radius=15" width="340" alt="Top Languages" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anill056&theme=dark&border_radius=15" width="340" alt="Streak Stats" /></p>
+  <p align="center"><img src="https://komarev.com/ghpvc/?username=anill056&label=Profile%20Views&color=0e75b6&style=flat" width="130" alt="Profile Views" /></p>
 </details>
 
 ---
