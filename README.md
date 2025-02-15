@@ -2,7 +2,7 @@
 <h3 align="center">Data Scientist | Machine Learning Engineer | Computer Engineering Student</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="Coding" width="120" height="120"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="120" height="120"/>
 </p>
 
 <p align="center">
@@ -17,9 +17,6 @@
   </a>
   <a href="https://instagram.com/anilaks_16" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:anilaksu2005@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
@@ -56,8 +53,17 @@
 
 ### 📩 Contact Me
 
-📧 **Email:** anilaksu2005@gmail.com  
-🚀 Always open to collaboration and learning new technologies!
+<p align="center">
+  <a href="mailto:anilaksu2005@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://twitter.com/anilaks1611" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://discord.com/users/anilaksu" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</p>
 
 ---
 
