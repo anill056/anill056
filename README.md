@@ -45,9 +45,9 @@
 
 <div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 10px;">
   <a href="https://leetcode.com/anill056/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/anill056?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats" width="470"/>
+    <img src="https://leetcard.jacoblin.cool/anill056?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats" width="360"/>
   <a href="https://app.daily.dev/anill056">
-    <img src="https://api.daily.dev/devcards/v2/JRs6aYJSsW6C0ZOYxZIXT.png?type=wide&r=tj0" width="300" alt="Anıl Aksu's Dev Card"/>
+    <img src="https://api.daily.dev/devcards/v2/JRs6aYJSsW6C0ZOYxZIXT.png?type=wide&r=tj0" width="470" alt="Anıl Aksu's Dev Card"/>
   </a>
 </div>
 
