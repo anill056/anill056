@@ -29,10 +29,10 @@
 
 <details>
   <summary>Click to expand stats 📈</summary>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=anill056&show_icons=true&theme=dark" alt="My Stats" /></p>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anill056&layout=compact&theme=dark" alt="Top Languages" /></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anill056&theme=dark" alt="Streak Stats" /></p>
-  <p align="center"><img src="https://komarev.com/ghpvc/?username=anill056&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=anill056&show_icons=true&theme=dark" width="450" alt="My Stats" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anill056&layout=compact&theme=dark" width="450" alt="Top Languages" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anill056&theme=dark" width="450" alt="Streak Stats" /></p>
+  <p align="center"><img src="https://komarev.com/ghpvc/?username=anill056&label=Profile%20Views&color=0e75b6&style=flat" width="250" alt="Profile Views" /></p>
 </details>
 
 ---
@@ -46,11 +46,11 @@
 ### 🔧 Languages and Tools
 
 <p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/></a>
-  <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/></a>
-  <a href="https://www.scala-lang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="Scala" width="50" height="50"/></a>
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="60" height="60"/></a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/></a>
+  <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="60" height="60"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/></a>
+  <a href="https://www.scala-lang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="Scala" width="60" height="60"/></a>
 </p>
 
 ---
