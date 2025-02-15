@@ -25,12 +25,12 @@
 
 ---
 
-### 🏆 LeetCode & Daily.dev Stats
+### 🏆 LeetCode & Daily.dev Stats 🏆
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/anill056?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats" width="360"/>
+  <img src="https://leetcard.jacoblin.cool/anill056?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats" width="380"/>
   <a href="https://app.daily.dev/anill056">
-    <img src="https://api.daily.dev/devcards/v2/JRs6aYJSsW6C0ZOYxZIXT.png?type=default&r=037" width="320" alt="Anıl Aksu's Dev Card"/>
+    <img src="https://api.daily.dev/devcards/v2/JRs6aYJSsW6C0ZOYxZIXT.png?type=default&r=037" width="350" alt="Anıl Aksu's Dev Card"/>
   </a>
 </p>
 
