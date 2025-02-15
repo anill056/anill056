@@ -22,13 +22,13 @@
 </p>
 
 <p align="center">
-  <a href= "https://www.linkedin.com/in/an%C4%B1l-aksu-079aa0349?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
+  <a href="https://linkedin.com/in/anilaksu" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://leetcode.com/anill056/" target="_blank">
+  <a href="https://leetcode.com/anil1056/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
-  <a href="https://kaggle.com/anill056" target="_blank">
+  <a href="https://kaggle.com/anil1056" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
   </a>
   <a href="https://instagram.com/anilaks_16" target="_blank">
@@ -44,7 +44,7 @@
 ### 🏆 LeetCode & Daily.dev Stats
 
 <div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 10px;">
-  <img src="https://leetcard.jacoblin.cool/anill056?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats" width="330"/>
+  <img src="https://leetcard.jacoblin.cool/anill056?theme=dark&font=Poppins&ext=heatmap&border=0&site=leetcode.com" alt="LeetCode Stats" width="330"/>
   <a href="https://app.daily.dev/anill056">
     <img src="https://api.daily.dev/devcards/v2/JRs6aYJSsW6C0ZOYxZIXT.png?type=wide&r=tj0" width="300" alt="Anıl Aksu's Dev Card"/>
   </a>
