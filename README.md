@@ -29,7 +29,7 @@
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/anil1056?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=anill056&show_icons=true&theme=dark&border_radius=15" width="400" alt="Daily.dev Stats" />
+  <img src="https://api.daily.dev/devcards/anil1056.svg" width="400" alt="Daily.dev Profile"/>
 </p>
 
 ---
