@@ -42,10 +42,10 @@
 
 <details>
   <summary>Click to expand stats 📈</summary>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=anill056&show_icons=true&theme=dark" width="380" alt="My Stats" /></p>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anill056&layout=compact&theme=dark" width="380" alt="Top Languages" /></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anill056&theme=dark" width="380" alt="Streak Stats" /></p>
-  <p align="center"><img src="https://komarev.com/ghpvc/?username=anill056&label=Profile%20Views&color=0e75b6&style=flat" width="180" alt="Profile Views" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=anill056&show_icons=true&theme=dark&border_radius=15" width="360" alt="My Stats" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anill056&layout=compact&theme=dark&border_radius=15" width="360" alt="Top Languages" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anill056&theme=dark&border_radius=15" width="360" alt="Streak Stats" /></p>
+  <p align="center"><img src="https://komarev.com/ghpvc/?username=anill056&label=Profile%20Views&color=0e75b6&style=flat" width="150" alt="Profile Views" /></p>
 </details>
 
 ---
