@@ -9,10 +9,10 @@
   <a href="https://linkedin.com/in/anilaksu" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://leetcode.com/anill056/" target="_blank">
+  <a href="https://leetcode.com/anil1056/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
-  <a href="https://kaggle.com/anill056" target="_blank">
+  <a href="https://kaggle.com/anil1056" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
   </a>
   <a href="https://instagram.com/anilaks_16" target="_blank">
@@ -28,8 +28,10 @@
 ### 🏆 LeetCode & Daily.dev Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/anill056?ext=contest" alt="LeetCode Stats" width="400"/>
-  <img src="https://api.daily.dev/devcards/anill056.svg" width="400" alt="Daily.dev Profile"/>
+  <img src="https://leetcard.jacoblin.cool/anil1056?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" width="400"/>
+  <a href="https://app.daily.dev/anill056">
+    <img src="https://api.daily.dev/devcards/v2/JRs6aYJSsW6C0ZOYxZIXT.png?type=default&r=037" width="356" alt="Anıl Aksu's Dev Card"/>
+  </a>
 </p>
 
 ---
