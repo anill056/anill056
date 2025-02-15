@@ -25,21 +25,28 @@
 
 ---
 
+### 🏆 LeetCode & Daily.dev Stats
+
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <a href="https://leetcode.com/anil1056/">
+    <img src="https://leetcard.jacoblin.cool/anil1056?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" width="400"/>
+  </a>
+  <a href="https://app.daily.dev/anil1056">
+    <img src="https://api.daily.dev/devcards/anil1056.svg" width="400" alt="Daily.dev Profile"/>
+  </a>
+</div>
+
+---
+
 ### 🌟 My Stats
 
 <details>
   <summary>Click to expand stats 📈</summary>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=anill056&show_icons=true&theme=dark" width="400" alt="My Stats" /></p>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anill056&layout=compact&theme=dark" width="400" alt="Top Languages" /></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anill056&theme=dark" width="400" alt="Streak Stats" /></p>
-  <p align="center"><img src="https://komarev.com/ghpvc/?username=anill056&label=Profile%20Views&color=0e75b6&style=flat" width="200" alt="Profile Views" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=anill056&show_icons=true&theme=dark" width="380" alt="My Stats" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anill056&layout=compact&theme=dark" width="380" alt="Top Languages" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anill056&theme=dark" width="380" alt="Streak Stats" /></p>
+  <p align="center"><img src="https://komarev.com/ghpvc/?username=anill056&label=Profile%20Views&color=0e75b6&style=flat" width="180" alt="Profile Views" /></p>
 </details>
-
----
-
-### 🏆 LeetCode Stats
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/anil1056?theme=dark&font=Karma&ext=contest)](https://leetcode.com/anil1056/)
 
 ---
 
