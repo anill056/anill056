@@ -12,7 +12,7 @@
   <a href="https://leetcode.com/anil1056/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
-  <a href="https://kaggle.com/anil1056" target="_blank">
+  <a href="https://kaggle.com/anill056" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
   </a>
   <a href="https://instagram.com/anilaks_16" target="_blank">
