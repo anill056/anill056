@@ -28,7 +28,7 @@
 ### 🏆 LeetCode & Daily.dev Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/anill056?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" width="400"/>
+  <img src="https://leetcard.jacoblin.cool/anill056?ext=contest" alt="LeetCode Stats" width="400"/>
   <img src="https://api.daily.dev/devcards/anill056.svg" width="400" alt="Daily.dev Profile"/>
 </p>
 
