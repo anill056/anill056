@@ -2,24 +2,24 @@
 <h3 align="center">Data Scientist | Machine Learning Engineer | Computer Engineering Student</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="Coding" width="100" height="100"/>
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="Coding" width="120" height="120"/>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/anilaksu" target="_blank" style="display:inline-block; padding:10px; border:2px solid #0077B5; border-radius:10px; transition:0.3s;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="50" height="50"/>
+  <a href="https://linkedin.com/in/anilaksu" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://leetcode.com/anil1056/" target="_blank" style="display:inline-block; padding:10px; border:2px solid #FFA116; border-radius:10px; transition:0.3s;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_black.png" alt="LeetCode" width="50" height="50"/>
+  <a href="https://leetcode.com/anil1056/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
-  <a href="https://kaggle.com/anil1056" target="_blank" style="display:inline-block; padding:10px; border:2px solid #20BEFF; border-radius:10px; transition:0.3s;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" width="50" height="50"/>
+  <a href="https://kaggle.com/anil1056" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
   </a>
-  <a href="https://instagram.com/anilaks_16" target="_blank" style="display:inline-block; padding:10px; border:2px solid #E4405F; border-radius:10px; transition:0.3s;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="50" height="50"/>
+  <a href="https://instagram.com/anilaks_16" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="mailto:anilaksu2005@gmail.com" target="_blank" style="display:inline-block; padding:10px; border:2px solid #D14836; border-radius:10px; transition:0.3s;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="50" height="50"/>
+  <a href="mailto:anilaksu2005@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
