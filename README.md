@@ -18,6 +18,9 @@
   <a href="https://instagram.com/anilaks_16" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
+  <a href="https://app.daily.dev/anil1056" target="_blank">
+    <img src="https://img.shields.io/badge/Daily.dev-121212?style=for-the-badge&logo=daily.dev&logoColor=white" alt="Daily.dev"/>
+  </a>
 </p>
 
 ---
