@@ -9,7 +9,7 @@
   <a href="https://linkedin.com/in/anilaksu" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://leetcode.com/anil1056/" target="_blank">
+  <a href="https://leetcode.com/anill056/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
   <a href="https://kaggle.com/anill056" target="_blank">
@@ -18,7 +18,7 @@
   <a href="https://instagram.com/anilaks_16" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://app.daily.dev/anil1056" target="_blank">
+  <a href="https://app.daily.dev/anill056" target="_blank">
     <img src="https://img.shields.io/badge/Daily.dev-121212?style=for-the-badge&logo=daily.dev&logoColor=white" alt="Daily.dev"/>
   </a>
 </p>
@@ -28,11 +28,11 @@
 ### 🏆 LeetCode & Daily.dev Stats
 
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <a href="https://leetcode.com/anil1056/">
-    <img src="https://leetcard.jacoblin.cool/anil1056?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" width="400"/>
+  <a href="https://leetcode.com/anill056/">
+    <img src="https://leetcard.jacoblin.cool/anill056?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" width="400"/>
   </a>
-  <a href="https://app.daily.dev/anil1056">
-    <img src="https://api.daily.dev/devcards/anil1056.svg" width="400" alt="Daily.dev Profile"/>
+  <a href="https://app.daily.dev/anill056">
+    <img src="https://api.daily.dev/devcards/anill056.svg" width="400" alt="Daily.dev Profile"/>
   </a>
 </div>
 
