@@ -2,16 +2,25 @@
 <h3 align="center">Data Scientist | Machine Learning Engineer | Computer Engineering Student</h3>
 
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/1055/1055672.png" alt="Coding" width="80" height="80"/>
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="Coding" width="100" height="100"/>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/anilaksu" target="_blank" style="display:inline-block; padding:10px; background:#0077B5; border-radius:10px; transition:0.3s; color:white; text-decoration:none; font-weight:bold;">LINKEDIN</a>
-  <a href="https://leetcode.com/anil1056/" target="_blank" style="display:inline-block; padding:10px; background:#FFA116; border-radius:10px; transition:0.3s; color:white; text-decoration:none; font-weight:bold;">LEETCODE</a>
-  <a href="https://kaggle.com/anil1056" target="_blank" style="display:inline-block; padding:10px; background:#20BEFF; border-radius:10px; transition:0.3s; color:white; text-decoration:none; font-weight:bold;">KAGGLE</a>
-  <a href="https://github.com/anill056" target="_blank" style="display:inline-block; padding:10px; background:#181717; border-radius:10px; transition:0.3s; color:white; text-decoration:none; font-weight:bold;">GITHUB</a>
-  <a href="https://instagram.com/anilaks_16" target="_blank" style="display:inline-block; padding:10px; background:#E4405F; border-radius:10px; transition:0.3s; color:white; text-decoration:none; font-weight:bold;">INSTAGRAM</a>
-  <a href="mailto:anilaksu2005@gmail.com" target="_blank" style="display:inline-block; padding:10px; background:#D14836; border-radius:10px; transition:0.3s; color:white; text-decoration:none; font-weight:bold;">EMAIL</a>
+  <a href="https://linkedin.com/in/anilaksu" target="_blank" style="display:inline-block; padding:10px; border:2px solid #0077B5; border-radius:10px; transition:0.3s;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="50" height="50"/>
+  </a>
+  <a href="https://leetcode.com/anil1056/" target="_blank" style="display:inline-block; padding:10px; border:2px solid #FFA116; border-radius:10px; transition:0.3s;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_black.png" alt="LeetCode" width="50" height="50"/>
+  </a>
+  <a href="https://kaggle.com/anil1056" target="_blank" style="display:inline-block; padding:10px; border:2px solid #20BEFF; border-radius:10px; transition:0.3s;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" width="50" height="50"/>
+  </a>
+  <a href="https://instagram.com/anilaks_16" target="_blank" style="display:inline-block; padding:10px; border:2px solid #E4405F; border-radius:10px; transition:0.3s;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="50" height="50"/>
+  </a>
+  <a href="mailto:anilaksu2005@gmail.com" target="_blank" style="display:inline-block; padding:10px; border:2px solid #D14836; border-radius:10px; transition:0.3s;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="50" height="50"/>
+  </a>
 </p>
 
 ---
