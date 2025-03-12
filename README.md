@@ -72,7 +72,9 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/></a>
   <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/></a>
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/></a>
-  <a href="https://www.scala-lang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="Scala" width="50" height="50"/></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/></a>
+  <a href="https://www.swi-prolog.org" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Prolog-logo.png" alt="Prolog" width="50" height="50"/></a>
+  
 </p>
 
 ---
